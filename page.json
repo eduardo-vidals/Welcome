@@ -1,0 +1,9 @@
+{
+  "name": "Welcome",
+  "path": "welcome",
+  "menu": "landing",
+  "theme": "Dracula Theme",
+  "groups": [],
+  "assets": [
+  ]
+}
