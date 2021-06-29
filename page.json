@@ -5,5 +5,11 @@
   "theme": "Dracula Theme",
   "groups": [],
   "assets": [
+    "discord",
+    "donate",
+	"forums",
+	"logo",
+	"logo2",
+	"style"
   ]
 }

@@ -1,0 +1,10 @@
+{
+  "register": {
+    "discord": "assets/welcome.png",
+    "donate": "assets/contact.png",
+    "forums": "assets/software.png",
+    "logo": "assets/services.png",
+    "logo2": "assets/support.png",
+	"style": "assets/style.css"
+  }
+}
